@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Quasar, Flutter**
 
-- 👯 I’m looking to collaborate on [FindMyJab](https://github.com/PuneetSivananda/getajab.com)
+- 👯 I’m looking to collaborate on 
 
 - 🤝 I’m looking for help with [FindMyJab](https://github.com/PuneetSivananda/getajab.com)
 
