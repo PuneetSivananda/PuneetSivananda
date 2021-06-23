@@ -40,3 +40,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneetsivananda&" alt="puneetsivananda" /></p>
 
+
+<h3 align-"center">HAVE AN IDEA OR SOME COOL PROJECT YOU WANT DONE? Let's Talk</h3>
