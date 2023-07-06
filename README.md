@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/puneet_sht_hpns" target="blank"><img src="https://img.shields.io/twitter/follow/puneet_sht_hpns?logo=twitter&style=for-the-badge" alt="puneet_sht_hpns" /></a> </p>
 
-- 🔭 I’m currently working on [FindMyJab](https://github.com/PuneetSivananda/getajab.com)
+- 🔭 I’m currently working on [Fintech App + ML](https://ytube-projects-phucqh4oh-puneetsivananda.vercel.app/)
 
 - 🌱 I’m currently learning **Quasar, Flutter**
 
