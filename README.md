@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Puneet Sivananda</h1>
 <h3 align="center">Software Developer, Python Developer roaming round the typescript land
-    <br/>Aspiring Blockchain Solutions Architect</h3>
+    <br/>Solutions Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetsivananda&label=Profile%20views&color=0e75b6&style=flat" alt="puneetsivananda" /> </p>
 
